@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.sportplus.live" name="SportPlus Live" version="1.0.0" provider-name="zynobg [at] gmail.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="script.module.xbmcswift2" version="1.1.1" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB"></summary>
+    <description lang="en_GB">https://en.sportplus.live/</description>
+    <disclaimer lang="en_GB"></disclaimer>
+    <language>en</language> <!-- the language of the videos or other content the plugin provides, may be omitted in case the addon does not provide any content -->
+    <platform>all</platform>
+    <license>GPL-3.0</license>
+    <forum></forum> <!-- may be omitted  -->
+    <website>https://en.sportplus.live/</website> <!-- the url of the website that contains the videos (or the official website of your plugin). May be omitted.  -->
+    <email>zinobg@gmail.com</email> <!-- may be left omitted  -->
+    <source>http://github.com/zinobg/plugin.video.sportplus.live</source>
+    <news>
+    </news>
+    <assets>
+        <icon>resources/logo.png</icon>
+        <fanart></fanart>
+        <banner></banner>
+        <clearlogo></clearlogo>
+        <screenshot></screenshot>
+    </assets>
+  </extension>
+</addon>
