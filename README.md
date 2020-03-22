@@ -2,7 +2,7 @@ Video plugin for https://en.sportplus.live/
 
 Readme for Kodi - plugin.video.sportplus.live - plugin created by zinobg [at] gmail.com
 
-I created this addon to be able to watch online TV via Kodi on my Raspberry pi3. It is tested on Kodi for Windows as well. 
+I created this addon to be able to watch online sport via Kodi on my Raspberry pi3. It is tested on Kodi for Windows as well. 
 
 Requires: script.module.xbmcswift2 (should be installed automatically, when plugin is installed)
 
